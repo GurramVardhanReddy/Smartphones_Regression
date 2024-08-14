@@ -76,3 +76,20 @@ Models.
 7. Applying Different Learning Algorithms on the Training Dataset.
 
 8. Applying the Standard Scaler and re-performing the same procedure.
+
+
+**License**
+
+This project is licensed under the Kaggle Dataset License as provided by the dataset's creator.
+
+
+**Results**
+
+The trained regression models achieved high accuracy in predicting smartphone prices based on the features provided in the dataset. The models demonstrated strong correlations between technical specifications, brand value, and pricing. Among the models tested, we got the best accuracies with 85% for Random Forest Regressor and Bagging Regressor, indicating that these models can effectively estimate smartphone prices with high precision.
+
+
+
+
+
+
+
