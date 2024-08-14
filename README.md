@@ -55,3 +55,24 @@ Download the Dataset: Obtain the smartphone dataset from Kaggle.
 Run the Analysis: Follow the project steps to explore the data, preprocess it, train regression models, and evaluate their performance.
 
 Review Results: Examine the model's accuracy and other performance metrics to understand how well it predicts smartphone prices.
+
+
+**Procedure**
+
+1. Loading Necessary Libraries.
+
+2. Loading Dataset from a CSV File or from a Table.
+
+3. Summarization of Data to Understand Dataset (Descriptive Statistics).
+
+4. Visualization of Data to Understand Dataset (Plots, Graphs, etc.).
+
+5. Data Pre-processing Imbalanced Learn Techniques, Data Transformation,
+Cross Validation.
+
+6. Hyper parameter Tuning to Find the Optimal Parameters for the Regression
+Models.
+
+7. Applying Different Learning Algorithms on the Training Dataset.
+
+8. Applying the Standard Scaler and re-performing the same procedure.
